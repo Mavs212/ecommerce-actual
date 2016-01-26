@@ -1,0 +1,11 @@
+/* add custom styles */
+#products_title{
+  margin-top:50px;
+}
+.media-body{
+  width: 300px;
+}
+
+.media-left, .media-middle{
+  margin-bottom: 10px;
+}
